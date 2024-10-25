@@ -12,15 +12,15 @@ const CONFIG = {
     },
   projects: [
     {
-      name: `Ghost Locker`,
-      href: "https://ghostlocker.vercel.app/",
+      name: ``,
+      href: "",
     }
   ],
   // blog setting (required)
   blog: {
     title: "Key Club Blog",
     description: "welcome to Key Club Blog!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    scheme: "light", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
