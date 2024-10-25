@@ -11,10 +11,10 @@ const CONFIG = {
       instagram: "Brandon_Scott_Rosen",
     },
   projects: [
-/*    {
+    {
       name: `Ghost Locker`,
       href: "https://ghostlocker.vercel.app/",
-    } */
+    }
   ],
   // blog setting (required)
   blog: {
