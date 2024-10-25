@@ -1,29 +1,25 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-      name: "ItzIcyHere",
-      image: "/2.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-      role: "Cybersecurity Student",
-      bio: "Running on pure chaos and the occasional ‘oops’ moment. If you’re wondering what’s going on, so am I—but trust me, it’s all part of the grand tech adventure!",
-      email: "Brandonrsn0502v2@gmail.com",
-      linkedin: "https://icyblog.vercel.app/",
-      github: "TrulyItzIcyGaming",
+      name: "Key Club",
+      image: "/2.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+      role: "Volenteer Club",
+      bio: "Making the world better one step at a time",
+      email: "159255@middletowncityschools.com",
+    //  linkedin: "https://icyblog.vercel.app/",
+    //  github: "TrulyItzIcyGaming",
       instagram: "Brandon_Scott_Rosen",
     },
   projects: [
-    {
+/*    {
       name: `Ghost Locker`,
       href: "https://ghostlocker.vercel.app/",
-    },
-    {
-      name: `Retro Age`,
-      href: "https://trulyitzicygaming.github.io/Retroage-Icy/",
-    },
+    } */
   ],
   // blog setting (required)
   blog: {
-    title: "Icy-Blog",
-    description: "welcome to Icy-Log!",
+    title: "Key Club Blog",
+    description: "welcome to Key Club Blog!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
