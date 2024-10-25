@@ -6,7 +6,7 @@ const CONFIG = {
       role: "student Ran Club",
       bio: "Making the world better one step at a time",
       email: "159255@middletowncityschools.com",
-      linkedin: "https://icyblog.vercel.app",
+      linkedin: "https://icyblog.vercel.app/",
       github: "TrulyItzIcyGaming",
       instagram: "Brandon_Scott_Rosen",
     },
