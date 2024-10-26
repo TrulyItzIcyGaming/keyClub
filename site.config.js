@@ -3,28 +3,28 @@ const CONFIG = {
   profile: {
       name: "Key Club",
       image: "/2.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-      role: "student Ran Club",
+      role: "Volenteer Club",
       bio: "Making the world better one step at a time",
       email: "159255@middletowncityschools.com",
-      linkedin: "https://icyblog.vercel.app/",
-      github: "TrulyItzIcyGaming",
+    //  linkedin: "https://icyblog.vercel.app/",
+    //  github: "TrulyItzIcyGaming",
       instagram: "Brandon_Scott_Rosen",
     },
   projects: [
-    {
-      name: ``,
-      href: "",
-    }
+/*    {
+      name: `Ghost Locker`,
+      href: "https://ghostlocker.vercel.app/",
+    } */
   ],
   // blog setting (required)
   blog: {
     title: "Key Club Blog",
     description: "welcome to Key Club Blog!",
-    scheme: "light", // 'light' | 'dark' | 'system'
+    scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
-  link: "https://keyclubconnect.vercel.app/",
+  link: "https://icyblog.vercel.app/",
   since: 2024, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
