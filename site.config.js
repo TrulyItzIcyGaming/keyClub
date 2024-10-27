@@ -4,7 +4,7 @@ const CONFIG = {
       name: "Key Club",
       image: "/2.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
       role: "Volenteer Club",
-      bio: "Making the world better one step at a time",
+      bio: "Making the world better one step at a time!",
       email: "159255@middletowncityschools.com",
     //  linkedin: "https://icyblog.vercel.app/",
     //  github: "TrulyItzIcyGaming",
